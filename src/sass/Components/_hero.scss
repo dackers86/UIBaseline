@@ -1,0 +1,20 @@
+﻿
+.hero-container{
+	text-align: center;
+	font-family: $main-font-family;
+	color: white;
+	width: 50%;
+	padding: 8% 0% 0% 48%;
+
+	.hero-title{
+		width: 100%;
+		padding: 15% 0% 0% 0%;
+		font-size: $medium-font-size;
+	}
+
+	.hero-sub-title{
+		width: 100%;
+	    padding: 3% 0%;
+		font-size: $large-font-size; 
+	}
+}

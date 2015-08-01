@@ -1,0 +1,23 @@
+
+
+.nav{
+	width: $full-width;
+
+	.logo{
+		margin: 3% 20%;
+		padding-left: 3%;
+		background: url('../../../../media/paper-plane.png') no-repeat;
+	}
+
+	.nav-items
+	{
+		display: inline;
+
+		ul{
+
+			li {
+				color: $white;
+			}
+		}
+	}
+}
